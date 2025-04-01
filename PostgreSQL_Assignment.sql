@@ -97,7 +97,7 @@ VALUES (
         '2023-06-20'
     );
 
--- Inserting Data on "orderse" Tables
+-- Inserting Data on "orders" Tables
 INSERT INTO
     orders (
         customer_id,
