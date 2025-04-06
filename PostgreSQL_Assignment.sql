@@ -1,5 +1,8 @@
 -- Active: 1743180204168@@127.0.0.1@5432@bookstore_db
 
+-- Creating Database
+    CREATE DATABASE bookstore_db;
+
 -- Creating "books" Tables
 CREATE TABLE books (
     id SERIAL PRIMARY KEY,
